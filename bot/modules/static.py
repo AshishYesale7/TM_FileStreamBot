@@ -1,12 +1,14 @@
 WelcomeText = \
 """
-Hi **%(first_name)s**, send me a file or add me as an admin to any channel to instantly generate file links.
+👋 Hᴇʏ, **%(first_name)s**
 
-Add me to your channel to instantly generate links for any downloadable media. Once received, I will automatically attach appropriate buttons to the post containing the URL. If you want me to ignore a given post, you can insert `#pass` in the post.
+I'm Telegram Files Streaming Bot As Well Direct Links Generator
 
-- /start to get this message.
-- /info to get user info.
-- /log to get bot logs. (admin only!)
+Cʟɪᴄᴋ ᴏɴ Hᴇʟᴘ ᴛᴏ ɢᴇᴛ ᴍᴏʀᴇ ɪɴғᴏʀᴍᴀᴛɪᴏɴ
+
+𝗪𝗔𝗥𝗡𝗜𝗡𝗚 🚸
+
+🔞 Pʀᴏɴ ᴄᴏɴᴛᴇɴᴛꜱ ʟᴇᴀᴅꜱ ᴛᴏ ᴘᴇʀᴍᴀɴᴇɴᴛ ʙᴀɴ ʏᴏᴜ.
 """
 
 UserInfoText = \
