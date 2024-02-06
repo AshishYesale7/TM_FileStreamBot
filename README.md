@@ -108,6 +108,16 @@ docker run -p 8080:8080 file-stream-bot
 ## ⛑️ Need help!
 - Ask questions or doubts [here](https://t.me/DrDiscussion).
 
+
+Commands to be pasted in the terminal to get Free SSL certificate    #CSR #SSL #Heroku  
+1. openssl genrsa -des3 -out server.pass.key 2048                 # give pass
+2. openssl rsa -in server.pass.key -out server.key                # same pass as above
+3. openssl req -nodes -new -key server.key -out server.csr         # to genertate CSE file for heruku
+4. To get country code  visit " https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 "
+5. To give FQDN or your name : Give purchased domain  name 
+
+
+
 <a name="credits"></a>
 
 ## ❤️ Credits & Thanks
